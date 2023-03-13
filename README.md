@@ -1,3 +1,2 @@
-second attempt.github
-.io
+second attempt.github.io
 
